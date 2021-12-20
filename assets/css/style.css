@@ -63,6 +63,9 @@ footer a {
 section {
     padding: 60px;
 }
+.heart {
+    color: red;
+}
 
 /* Hero Style Start */
 .hero {
